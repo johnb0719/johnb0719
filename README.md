@@ -1,85 +1,41 @@
-# Hi, I'm Aral Roca
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+ <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+    </p>
 
-<div align="right">
-  <a href="https://aralroca.com/donate">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
-  </a>
-</div>
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-<p align="center">
-  <a href="https://aralroca.com">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
-  </a>
-</p>
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:contact@aralroca.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
-  </a>
-</p>
+<h2 align="left">:heart: Let's get connected:</h2>
 
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
-
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
-  <br />
-</div>
-
-<img src= "https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/Draw.png" alt="Winner" width="32"/>
-
-| Tic | Tac | Toe |
-|--|--|--|
-| [![Tile 0](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/True.png)](https://github.com/DoubleGremlin181) | [![Tile 1](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/False.png)](https://github.com/DoubleGremlin181) | [![Tile 2](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/True.png)](https://github.com/DoubleGremlin181) |
-| [![Tile 3](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/False.png)](https://github.com/DoubleGremlin181) | [![Tile 4](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/False.png)](https://github.com/DoubleGremlin181) | [![Tile 5](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/True.png)](https://github.com/DoubleGremlin181) |
-| [![Tile 6](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/True.png)](https://github.com/DoubleGremlin181) | [![Tile 7](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/True.png)](https://github.com/DoubleGremlin181) | [![Tile 8](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/False.png)](https://github.com/DoubleGremlin181) |
-
-
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
-
-<br />
-
-#### 📖 &nbsp;&nbsp;[aralroca.com](https://aralroca.com): Last 5 articles
- 
-* [HTML Streaming Over the Wire 🥳: A Deep Dive](https://aralroca.com/blog/html-streaming-over-the-wire) 
-* [SPA-Like Navigation Preserving Web Component State](https://aralroca.com/blog/spa-navigation) 
-* [Power of Partial Prerendering with Bun](https://aralroca.com/blog/partial-prerendering) 
-* [HTML Streaming and DOM Diffing Algorithm](https://aralroca.com/blog/html-node-streaming) 
-* [👋 Say Goodbye to Spread Operator: Use Default Composer](https://aralroca.com/blog/default-composer)
-
-<br />
-
-#### 🧡 &nbsp;&nbsp;My passions
-
-* Technology and software
-* Science 
-* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
-* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
-* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
-* Nutrition
-* Nature
-
-<br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
-  <table align="right">
-      <tr>
-          <td>
-            👉 &nbsp;&nbsp;Subscribe to the newsletter
-          </td>
-      </tr>
-  </table>
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
